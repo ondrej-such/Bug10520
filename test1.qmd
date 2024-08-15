@@ -1,0 +1,8 @@
+---
+title: "Test"
+format:
+  pdf:
+    documentclass: scrreprt
+---
+
+{{< embed test1.ipynb#plot1 >}}
